@@ -1,0 +1,23 @@
+[33mcommit dc0478a07e866ed09cc3980c62eb25a1ed0003be[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Androgb <Androgb@gmail.com>
+Date:   Fri Nov 8 22:12:43 2024 -0500
+
+    RHLM change
+
+[33mcommit 761f0693d8f1d65e90bb3e460a83b3f97e855856[m
+Author: Androgb <Androgb@gmail.com>
+Date:   Fri Nov 8 22:12:00 2024 -0500
+
+    Agregue un parrafo para aclarar la estatura
+
+[33mcommit e83b7c71625f6921f4368a241dc618472208137a[m
+Author: Androgb <Androgb@gmail.com>
+Date:   Fri Nov 8 17:14:12 2024 -0500
+
+    Aqui corrijo el texto
+
+[33mcommit 8aa12971a1d6314593ba455403553940763de481[m
+Author: root <root@LAPTOP-PBBUMBFK>
+Date:   Fri Nov 8 17:09:04 2024 -0500
+
+    Este es el primer commit
