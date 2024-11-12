@@ -7,7 +7,7 @@ h1{
     font-size: 20px;
 }
 .container{
-    border: 1px solid;
+    border: 1px solid lightslategray;
     width: 70%;
     margin: 0 auto;
 }
@@ -29,4 +29,7 @@ h1{
 img{
     width: 50px;
     padding: 0 15px;
+footer{
+    background: gray;
+    padding: 15px;
 }
