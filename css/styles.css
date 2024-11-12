@@ -18,9 +18,15 @@ h1{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    display: flex;
+    align-items: center;
 }
 #tagline{
     margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+img{
+    width: 50px;
+    padding: 0 15px;
 }
